@@ -13,6 +13,8 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/elizabeth-a-h/azure-nsg)
 - <b>Azure Cloud</b>
   - [Creating a live SOC and Honeynet in Azure](https://github.com/elizabeth-a-h/Azure-SOC)
+- <b>Vulnerability Management Project</b>
+  - [Vulnerability Management Program Implementation](https://github.com/elizabeth-a-h/vulnerability-management-program)
 
 
 <h2>Connect with me:</h2>
