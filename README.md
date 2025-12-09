@@ -1,4 +1,4 @@
-<h1>Hi, I'm Elizabeth, a <a href="https://linkedin.com/in/Josh">Cybersecurity Professional</a>☺</h1>
+<h1>Hi, I'm Elizabeth, a <a href="https://linkedin.com/in/Josh">Cybersecurity Professional</a></h1>
 
 <h2>Cybersecurity and Information Technology Projects:</h2>
 
