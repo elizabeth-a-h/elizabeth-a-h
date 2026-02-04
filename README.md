@@ -2,8 +2,9 @@
 
 <h2>Cybersecurity and Information Technology Projects:</h2>
 
-- <b>Threat Hunting Scenario (Tor Browswer Usage)</b>
-  - [Threat Hunting Scenario Tor](https://github.com/elizabeth-a-h/threat-hunting-scenario-tor)
+- <b>Threat Hunting Scenarios</b>
+  - [Unauthorized Tor Browswer Usage](https://github.com/elizabeth-a-h/threat-hunting-scenario-tor)
+  - [CorpHealth: Traceback](https://github.com/elizabeth-a-h/threat-hunting-scenario-corphealth-traceback)
 - <b>Vulnerability Management Project</b>
   - [Vulnerability Management Program Implementation](https://github.com/elizabeth-a-h/vulnerability-management-program)
 - <b>Azure Cloud</b>
